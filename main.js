@@ -137,6 +137,16 @@ $('#add').click(function () {
                 $('#diode6_2').css('backgroundColor', diodeColor);
                 $('#diode5_3').css('backgroundColor', diodeColor);
                 $('#diode6_4').css('backgroundColor', diodeColor);
+                break;
+            case 'l':
+                $('.diode').css('backgroundColor', clearColor);
+                $('#diode2_2').css('backgroundColor', diodeColor);        
+                $('#diode3_2').css('backgroundColor', diodeColor); 
+                $('#diode4_2').css('backgroundColor', diodeColor);
+                $('#diode5_2').css('backgroundColor', diodeColor);
+                $('#diode6_2').css('backgroundColor', diodeColor);
+                $('#diode6_3').css('backgroundColor', diodeColor);
+                $('#diode6_4').css('backgroundColor', diodeColor);
                 break; 
             case 'm':
                 $('.diode').css('backgroundColor', clearColor);
