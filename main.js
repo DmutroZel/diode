@@ -127,7 +127,7 @@ $('#add').click(function () {
                 $('#diode6_2').css('backgroundColor', diodeColor);
                 $('#diode6_3').css('backgroundColor', diodeColor); 
                 break;
-            case 'l':
+            case 'k':
                 $('.diode').css('backgroundColor', clearColor);
                 $('#diode2_2').css('backgroundColor', diodeColor);        
                 $('#diode3_2').css('backgroundColor', diodeColor); 
